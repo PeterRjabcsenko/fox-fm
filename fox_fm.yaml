@@ -51,4 +51,3 @@ dependencies:
       - sounddevice==0.5.5
       - threadpoolctl==3.6.0
       - tqdm==4.67.3
-prefix: /home/rjabcsenkop/miniconda3/envs/fox_fm
