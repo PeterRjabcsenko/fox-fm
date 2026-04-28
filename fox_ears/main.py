@@ -23,6 +23,7 @@ general_api = GeneralAPI(cfg)
 
 def main():
     wake_up_service = WakeUpService(cfg)
+    wake_up_service()
 
 
 if __name__ == '__main__':
